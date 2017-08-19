@@ -15,6 +15,10 @@ var recipeData = {
     "Roasted Chickpeas":{"url":"recipes/chickpeas.html", "img":"images/chickpeas.jpg"},
     "Ham, Egg, and Cheese Muffins":{"url":"recipes/ham-egg-muffins.html", "img":"images/ham-egg-muffins.png"},
     "Cheese Crisps":{"url":"recipes/cheese-crisps.html", "img":"images/cheese-crisps.jpg"},
+    "Quinoa Crackers":{"url":"recipes/quinoa-crackers.html", "img":"images/quinoa-crackers.jpg"},
+    "No-Bake Apricot Chia Energy Bars":{"url":"recipes/apricot-bars.html", "img":"images/apricot-bars.jpg"},
+    "Blueberry Oatmeal":{"url":"recipes/blueberry-oatmeal.html", "img":"images/blueberry-oatmeal.jpg"},
+    "Cinnamon Roll Oatmeal":{"url":"recipes/cinnamon-roll-oats.html", "img":"images/cinnamon-roll-oats.jpg"},
 
 };
 
