@@ -1,0 +1,46 @@
+html, body{
+    color:black;
+    font-family: "Source Sans Pro", sans-serif;
+    height: 100%;
+    background-color: white;
+}
+
+/*code for flex-container based off of the tutorial linked to in the assignment
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
+#recipes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.recipeLink{
+  color:black;
+  display: block;
+  padding-top:10px;
+  font-size: 1.5em;
+}
+
+.recipeNameCard{
+  text-align: center;
+  color:black;
+}
+
+.recipeCard{
+  background-color:#d3d3d3;
+  margin-top:5px;
+  margin-bottom:5px;
+  margin-right:10px;
+  width:300px;
+  height:250px;
+}
+
+.recipeCard img{
+  height:200px;
+  width:200px;
+  display:block;
+  margin:auto;
+}
