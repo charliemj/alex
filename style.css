@@ -3,6 +3,7 @@ html, body{
     font-family: "Source Sans Pro", sans-serif;
     height: 100%;
     background-color: white;
+    margin-left:20px;
 }
 
 /*code for flex-container based off of the tutorial linked to in the assignment
@@ -22,6 +23,11 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
   display: block;
   padding-top:10px;
   font-size: 1.5em;
+}
+
+.recipePic img{
+    height:320px;
+    width:250px;
 }
 
 .recipeNameCard{
