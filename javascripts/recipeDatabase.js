@@ -19,6 +19,7 @@ var recipeData = {
     "No-Bake Apricot Chia Energy Bars":{"url":"recipes/apricot-bars.html", "img":"images/apricot-bars.jpg"},
     "Blueberry Oatmeal":{"url":"recipes/blueberry-oatmeal.html", "img":"images/blueberry-oatmeal.jpg"},
     "Cinnamon Roll Oatmeal":{"url":"recipes/cinnamon-roll-oats.html", "img":"images/cinnamon-roll-oats.jpg"},
+    "Chicken Cordon Bleu":{"url":"recipes/chicken-cordon-bleus.html", "img":"images/chicken-cordon-bleu.jpg"},
 
 };
 
