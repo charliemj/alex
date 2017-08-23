@@ -8,6 +8,10 @@ html, body{
     font-size:1em;
 }
 
+p {
+  margin-left:20%;
+  margin-right:20%;
+}
 
 .ingredients{
   display: flex;
@@ -27,6 +31,10 @@ html, body{
   align-items: center;
   align-content: center;
   justify-content: center;
+
+  margin-left:20%;
+  margin-right:20%;
+
 }
 
 /*code for flex-container based off of the tutorial linked to in the assignment
