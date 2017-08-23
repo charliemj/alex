@@ -37,6 +37,9 @@ p {
 
 }
 
+.instructions li{
+  margin:1.2em;
+}
 /*code for flex-container based off of the tutorial linked to in the assignment
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
 #recipes {
@@ -115,11 +118,11 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
   margin-bottom:5px;
   margin-right:10px;
   width:320px;
-  height:280px;
+  height:300px;
 }
 
 .recipeCard img{
-  height:200px;
+  height:210px;
   width:200px;
   display:block;
   margin:auto;

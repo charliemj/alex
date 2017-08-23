@@ -21,6 +21,11 @@ var recipeData = {
     "Cinnamon Roll Oatmeal":{"url":"recipes/cinnamon-roll-oats.html", "img":"images/cinnamon-roll-oats.jpg"},
     "Chicken Cordon Bleu":{"url":"recipes/chicken-cordon-bleus.html", "img":"images/chicken-cordon-bleu.jpg"},
     "Bacon Cheeseburger Dip/Casserole":{"url":"recipes/bacon-cheeseburger.html", "img":"images/bacon-cheeseburger.jpg"},
+    "Cauliflower Grilled Cheese":{"url":"recipes/cauliflower-grilled-cheese.html", "img":"images/cauliflower-grilled-cheese.jpg"},
+    "Soft Pretzels":{"url":"recipes/pretzel.html", "img":"images/pretzel.jpg"},
+    "Yucca (Cassava) Fries":{"url":"recipes/yucca-fries.html", "img":"images/yucca-fries.png"},
+    "Cauliflower Pizza Crust":{"url":"recipes/cauliflower-crust.html", "img":"images/cauliflower-crust.jpg"},
+    "Cauliflower Cheese Breadsticks":{"url":"recipes/cauliflower-cheesebread.html", "img":"images/cauliflower-cheesebread.jpg"},
 
 };
 
