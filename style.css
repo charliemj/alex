@@ -4,6 +4,29 @@ html, body{
     height: 100%;
     background-color: white;
     margin-left:20px;
+    margin-bottom:10px;
+    font-size:1em;
+}
+
+
+.ingredients{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.instructions{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
 }
 
 /*code for flex-container based off of the tutorial linked to in the assignment
@@ -25,6 +48,39 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
   font-size: 1.5em;
 }
 
+#instructions{
+  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-decoration:underline;
+}
+
+#ingredients{
+  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-decoration:underline;
+}
+
+.recipePic{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
 .recipePic img{
     height:320px;
     width:250px;
@@ -35,13 +91,23 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
   color:black;
 }
 
+.recipeName{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
 .recipeCard{
   background-color:#d3d3d3;
   margin-top:5px;
   margin-bottom:5px;
   margin-right:10px;
-  width:300px;
-  height:250px;
+  width:320px;
+  height:280px;
 }
 
 .recipeCard img{
@@ -49,4 +115,8 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
   width:200px;
   display:block;
   margin:auto;
+}
+
+.source{
+  padding-bottom:10px;
 }
