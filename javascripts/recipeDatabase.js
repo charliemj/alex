@@ -26,6 +26,8 @@ var recipeData = {
     "Yucca (Cassava) Fries":{"url":"recipes/yucca-fries.html", "img":"images/yucca-fries.png"},
     "Cauliflower Pizza Crust":{"url":"recipes/cauliflower-crust.html", "img":"images/cauliflower-crust.jpg"},
     "Cauliflower Cheese Breadsticks":{"url":"recipes/cauliflower-cheesebread.html", "img":"images/cauliflower-cheesebread.jpg"},
+    "Cheese Rolls":{"url":"recipes/cheese-rolls.html", "img":"images/cheese-rolls.jpg"},
+    "Tapioca Wraps/Tortillas":{"url":"recipes/wraps.html", "img":"images/wraps.jpg"},
 
 };
 
