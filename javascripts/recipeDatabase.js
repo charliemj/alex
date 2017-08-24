@@ -30,6 +30,7 @@ var recipeData = {
     "Tapioca Wraps/Tortillas":{"url":"recipes/wraps.html", "img":"images/wraps.jpg"},
     "Beet Ketchup":{"url":"recipes/ketchup.html", "img":"images/ketchup.jpg"},
     "Beet Pizza Sauce":{"url":"recipes/beet-sauce.html", "img":"images/beet-sauce.jpg"},
+    "Chickpea Fries":{"url":"recipes/chickpea-fries.html", "img":"images/chickpea-fries.jpg"},
 
 };
 
