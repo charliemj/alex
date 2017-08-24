@@ -28,6 +28,8 @@ var recipeData = {
     "Cauliflower Cheese Breadsticks":{"url":"recipes/cauliflower-cheesebread.html", "img":"images/cauliflower-cheesebread.jpg"},
     "Cheese Rolls":{"url":"recipes/cheese-rolls.html", "img":"images/cheese-rolls.jpg"},
     "Tapioca Wraps/Tortillas":{"url":"recipes/wraps.html", "img":"images/wraps.jpg"},
+    "Beet Ketchup":{"url":"recipes/ketchup.html", "img":"images/ketchup.jpg"},
+    "Beet Pizza Sauce":{"url":"recipes/beet-sauce.html", "img":"images/beet-sauce.jpg"},
 
 };
 
